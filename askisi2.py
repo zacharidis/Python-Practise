@@ -1,3 +1,5 @@
+#by georgios zachariidis 
+
 def printTheResult(repetitions):
     for i in range (0,repetitions) :
         print("Current number is : " + str(i))

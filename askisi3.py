@@ -1,3 +1,4 @@
+#by georgios zachariidis 
 
 def sliceThemAll(word):
     wordlen = len(word)

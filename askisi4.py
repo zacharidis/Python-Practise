@@ -2,6 +2,7 @@
 #i can see why people get obsessed with this language. 
 #askisi4 
 
+#by georgios zachariidis 
 
 def stringModifier(word , charcounter):
     wordlen = len(word);

@@ -1,5 +1,4 @@
-#askisi 1 
-# eisagogi 2 thetikon akeraion ypologismos ginomenou an einai mirktoero apo 10000 allios athroisma 
+#by georgios zachariidis 
 
 print("******************************************************")
 print("Hello and Welcome to Python's most advanced calculator");
